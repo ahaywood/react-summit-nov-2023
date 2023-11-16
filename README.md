@@ -20,7 +20,7 @@ This workshop will guide you through the product development life cycle of creat
 ## What will I build?
 
 - [Brazilian Nut News (deployed on Vercel)](https://brazilian-nut-news-redwood.vercel.app/)
-- [Finished Repo]()
+- [Finished Repo](https://github.com/ahaywood/brazilian-nut-news__redwood)
 
 # Agenda
 
